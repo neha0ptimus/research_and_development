@@ -2,7 +2,7 @@
 This section summarizes the aim of this project
 
 ## Setup and code
-- Add details about setup if any
+- Add details about setup if any, eg virtual env, etc
 
 ## Relevant links
 Setup a folder in BOX `/Users/nehabora/Box/Datascience/research_and_development/example_project` for your project
