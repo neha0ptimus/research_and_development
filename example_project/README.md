@@ -18,7 +18,6 @@ Example: Imbalanced Class Modeling
       https://docs.google.com/document/d/1UHOWGJcVQMErapmZAnxdxbzA4r7_-sFz9ebPKYcs1Ro/edit
 - Results Doc:
       https://docs.google.com/spreadsheets/d/1XkO0DX-_1yqVmiGSmUZB7w0pdSYuLQX3nurYEh_PEkk/edit?usp=drive_web&ouid=102604017329041216744
--
 
 ## Issues
 - Create issues for what you are working on a particular day
