@@ -9,7 +9,7 @@ If the datasets that you are working with are large, it recommended to store the
 - Link to raw data folder in BOX
 - Link to results folder in BOX
 
-Add the links to datafiles
+
 Example: Imbalanced Class Modeling
 - Research Doc:
       https://docs.google.com/document/d/1KmGYTHV8fJPPTPa7GrYCXZxmV-5OUB1X70RcWK1hbdU/edit
@@ -21,7 +21,7 @@ Example: Imbalanced Class Modeling
 
 ## Issues
 - Create issues for what you are working on a particular day
-Format for issue header - [example_project][date][issue], this is just to get an idea about how we are progressing in the project. If you have any problems and/or questions, feel free to add them to issues and assign your project manager/ mentor to it.
+- Format for issue header - [example_project][date][issue], this is just to get an idea about how we are progressing in the project. If you have any problems and/or questions, feel free to add them to issues and assign your project manager/ mentor to it.
 
 
 ## Weekly Updates
