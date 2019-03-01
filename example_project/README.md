@@ -5,7 +5,7 @@ This section summarizes the aim of this project
 - Add details about setup if any, eg virtual env, etc
 
 ## Relevant links
-Setup a folder in BOX `/Users/nehabora/Box/Datascience/research_and_development/example_project` for your project
+Setup a folder in BOX `/Users/nehabora/Box/Datascience/research_and_development/example_project` for your project.
 If the datasets that you are working with are large, it recommended to store them on your project's boc folder and not add them to the repo.
 - Link to raw data folder in `BOX /Users/nehabora/Box/Datascience/research_and_development/example_project/input_data`
 - Link to results folder in `BOX /Users/nehabora/Box/Datascience/research_and_development/example_project/results_data`
